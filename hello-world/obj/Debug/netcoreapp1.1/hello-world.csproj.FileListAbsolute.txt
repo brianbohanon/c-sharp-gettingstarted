@@ -1,0 +1,8 @@
+/Users/cbbohano/gitrepos/c-sharp-gettingstarted/hello-world/bin/Debug/netcoreapp1.1/hello-world.deps.json
+/Users/cbbohano/gitrepos/c-sharp-gettingstarted/hello-world/bin/Debug/netcoreapp1.1/hello-world.runtimeconfig.json
+/Users/cbbohano/gitrepos/c-sharp-gettingstarted/hello-world/bin/Debug/netcoreapp1.1/hello-world.runtimeconfig.dev.json
+/Users/cbbohano/gitrepos/c-sharp-gettingstarted/hello-world/bin/Debug/netcoreapp1.1/hello-world.dll
+/Users/cbbohano/gitrepos/c-sharp-gettingstarted/hello-world/bin/Debug/netcoreapp1.1/hello-world.pdb
+/Users/cbbohano/gitrepos/c-sharp-gettingstarted/hello-world/obj/Debug/netcoreapp1.1/hello-world.AssemblyInfo.cs
+/Users/cbbohano/gitrepos/c-sharp-gettingstarted/hello-world/obj/Debug/netcoreapp1.1/hello-world.dll
+/Users/cbbohano/gitrepos/c-sharp-gettingstarted/hello-world/obj/Debug/netcoreapp1.1/hello-world.pdb
