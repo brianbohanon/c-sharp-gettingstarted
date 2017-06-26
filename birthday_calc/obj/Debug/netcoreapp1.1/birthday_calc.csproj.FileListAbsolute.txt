@@ -1,0 +1,8 @@
+/Users/cbbohano/gitrepos/c-sharp-gettingstarted/birthday_calc/bin/Debug/netcoreapp1.1/birthday_calc.deps.json
+/Users/cbbohano/gitrepos/c-sharp-gettingstarted/birthday_calc/bin/Debug/netcoreapp1.1/birthday_calc.runtimeconfig.json
+/Users/cbbohano/gitrepos/c-sharp-gettingstarted/birthday_calc/bin/Debug/netcoreapp1.1/birthday_calc.runtimeconfig.dev.json
+/Users/cbbohano/gitrepos/c-sharp-gettingstarted/birthday_calc/bin/Debug/netcoreapp1.1/birthday_calc.dll
+/Users/cbbohano/gitrepos/c-sharp-gettingstarted/birthday_calc/bin/Debug/netcoreapp1.1/birthday_calc.pdb
+/Users/cbbohano/gitrepos/c-sharp-gettingstarted/birthday_calc/obj/Debug/netcoreapp1.1/birthday_calc.AssemblyInfo.cs
+/Users/cbbohano/gitrepos/c-sharp-gettingstarted/birthday_calc/obj/Debug/netcoreapp1.1/birthday_calc.dll
+/Users/cbbohano/gitrepos/c-sharp-gettingstarted/birthday_calc/obj/Debug/netcoreapp1.1/birthday_calc.pdb
